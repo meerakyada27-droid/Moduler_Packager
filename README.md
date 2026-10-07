@@ -538,7 +538,7 @@ The output demonstrates the major features of the project, including:
 - File Operations
 - Module Attribute Exploration
 
-![Modular & Packager Output](output.png)
+![Modular & Packager Output](/Output.png)
 
 ---
 
