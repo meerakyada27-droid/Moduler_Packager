@@ -32,8 +32,10 @@ The project combines different utilities such as date and time operations, mathe
 ## 🛠️ Technologies Used
 
 - **Programming Language:** Python
-- **Python Version:** Python 3.14.6
+- **Python Version:** 3.14.6
 - **IDE:** Visual Studio Code
+- **Version Control:** Git
+- **Code Hosting Platform:** GitHub
 - **Interface:** Command Line / Terminal
 
 ### Python Modules Used
@@ -62,14 +64,15 @@ file_operations.py
 Modular_&_Packager/
 │
 ├── Modules/
+│   ├── __pycache__/
 │   ├── __init__.py
 │   ├── file_operations.py
 │   └── math_operations.py
 │
 ├── Modular_Packager.py
-├── sample.txt
-├── output.png
-└── README.md
+├── Output.png
+├── README.md
+└── sample.txt
 ```
 
 ### File Description
